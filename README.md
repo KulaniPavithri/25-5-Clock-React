@@ -1,4 +1,4 @@
-Technologies and Concepts: React - Hooks, Refs, JSX
+Technologies and Concepts: React - Hooks, Refs, JSX,
 HTML5, CSS3, SASS
 
 # Getting Started with Create React App
